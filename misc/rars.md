@@ -65,7 +65,7 @@ Note that the path separator is `/` on some systems, e.g., Linux.
 Follow the following steps to run an example. 
 
 1. Download the example program `01-hello.s`. It is under
-   [the rv-examples directory](https://github.com/zhijieshi/cse3666/tree/master/rv-examples). 
+   [the rv-examples directory](https://github.com/boone891214/ECE4290-6290/tree/master/rv-examples). 
    Remember the location of the downloaded file on your computer.
 
    The instructions for downloading files from GitHub is in [a later
