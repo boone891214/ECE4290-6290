@@ -1,4 +1,4 @@
-# Array copy example (UConn CSE 3666)
+# Array copy example (ECE 4290/6290)
 
 We study different implementatons of `array_copy` code.
 
